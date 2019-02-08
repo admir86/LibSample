@@ -8,6 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
+    "pack": "cd dist/lib-a && npm pack",
     "release": "npm publish dist/lib-a"
   },
   "private": true,
